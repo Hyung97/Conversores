@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Volumen"></activity>
+        <activity android:name=".Masa"></activity>
+        <activity android:name=".Volumen" />
         <activity android:name=".Longitud" />
         <activity android:name=".Almacenamiento" />
         <activity android:name=".Tiempo" />

@@ -38,4 +38,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intento2 = new Intent(this, Volumen.class);
         startActivity(intento2);
     }
+
+    public void Masita(View view) {
+        Intent intento1 = new Intent(this, Masa.class);
+        startActivity(intento1);
+    }
 }

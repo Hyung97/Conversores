@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">Conversiones</string>
+    <string-array name= "Monedas">
+        <item>Seleccione una moneda</item>
+        <item>Dólar Estadounidense</item>
+        <item>Euro</item>
+        <item>Peso Mexicano</item>
+        <item>Colón Salvadoreño</item>
+        <item>Dólar Australiano</item>
+        <item>Boliviano</item>
+        <item>Peso Chileno</item>
+        <item>Peso Colombiano</item>
+        <item>Rublo</item>
+        <item>Quetzal Guatemalteco</item>
+        <item>Dólar Guayanés</item>
+        <item>Lempira Hondureña</item>
+        <item>Yen Japonés</item>
+        <item>Guaraní</item>
+        <item>Rupia</item>
+        <item>Peso Uruguayo</item>
+    </string-array>
 </resources>
