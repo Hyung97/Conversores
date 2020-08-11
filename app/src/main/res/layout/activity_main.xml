@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo3"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btnMonedas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="150dp"
+        android:text="Monedas"
+        android:onClick="Monedas"/>
+
+    <Button
+        android:id="@+id/btnMasa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="200dp"
+        android:text="Masa" />
+
+    <Button
+        android:id="@+id/btnVolumen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Volumen"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="250dp"/>
+
+    <Button
+        android:id="@+id/btnLongitud"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Longitud"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="300dp"/>
+
+    <Button
+        android:id="@+id/btnAlmacenamiento"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Almacenamiento"
+        android:layout_marginLeft="125dp"
+        android:layout_marginTop="350dp"
+        android:onClick="Almace"/>
+
+    <Button
+        android:id="@+id/Tiempo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tiempo"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="400dp"
+        android:onClick="Time"/>
+
+    <Button
+        android:id="@+id/Transferencia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Transferencia de Datos"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="450dp"/>
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="164dp"
+        android:layout_marginLeft="00dp"
+        android:layout_marginTop="00dp"
+        app:srcCompat="@drawable/imagen1" />
+
+</RelativeLayout>
