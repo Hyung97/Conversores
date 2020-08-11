@@ -73,6 +73,7 @@
         android:layout_height="164dp"
         android:layout_marginLeft="00dp"
         android:layout_marginTop="00dp"
-        app:srcCompat="@drawable/imagen1" />
+        app:srcCompat="@drawable/imagen1"
+        android:onClick="Monedas"/>
 
 </RelativeLayout>
