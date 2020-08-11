@@ -30,7 +30,8 @@
         android:layout_height="wrap_content"
         android:text="Volumen"
         android:layout_marginLeft="150dp"
-        android:layout_marginTop="250dp"/>
+        android:layout_marginTop="250dp"
+        android:onClick="Volumn"/>
 
     <Button
         android:id="@+id/btnLongitud"
@@ -38,7 +39,8 @@
         android:layout_height="wrap_content"
         android:text="Longitud"
         android:layout_marginLeft="150dp"
-        android:layout_marginTop="300dp"/>
+        android:layout_marginTop="300dp"
+        android:onClick="Longitd"/>
 
     <Button
         android:id="@+id/btnAlmacenamiento"
@@ -73,7 +75,6 @@
         android:layout_height="164dp"
         android:layout_marginLeft="00dp"
         android:layout_marginTop="00dp"
-        app:srcCompat="@drawable/imagen1"
-        android:onClick="Monedas"/>
+        app:srcCompat="@drawable/imagen1"/>
 
 </RelativeLayout>

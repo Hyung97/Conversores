@@ -28,4 +28,14 @@ public class MainActivity extends AppCompatActivity {
         Intent intento4 = new Intent(this, Almacenamiento.class);
         startActivity(intento4);
     }
+
+    public void Longitd(View view) {
+        Intent intento3 = new Intent(this, Longitud.class);
+        startActivity(intento3);
+    }
+
+    public void Volumn(View view) {
+        Intent intento2 = new Intent(this, Volumen.class);
+        startActivity(intento2);
+    }
 }
