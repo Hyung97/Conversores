@@ -19,4 +19,92 @@
         <item>Rupia</item>
         <item>Peso Uruguayo</item>
     </string-array>
+
+    <string-array name= "Longitud">
+        <item>Seleccione una de las opciones</item>
+        <item>Kilometro</item>
+        <item>Metro</item>
+        <item>Centimetro</item>
+        <item>Milímetro</item>
+        <item>Micrómetro</item>
+        <item>Nanómetro</item>
+        <item>Milla</item>
+        <item>Yarda</item>
+        <item>Pie</item>
+        <item>Pulgada</item>
+        <item>Milla Naútica</item>
+    </string-array>
+
+    <string-array name= "Masa">
+        <item>Seleccione una de las opciones</item>
+        <item>Tonelada</item>
+        <item>Kilogramo</item>
+        <item>Gramo</item>
+        <item>Miligramo</item>
+        <item>Microgramo</item>
+        <item>Tonelada Larga</item>
+        <item>Tonelada Corta</item>
+        <item>Stone</item>
+        <item>Onza</item>
+        <item>Libra</item>
+    </string-array>
+
+    <string-array name= "Tiempo">
+        <item>Seleccione una de las opciones</item>
+        <item>Nanosegundo</item>
+        <item>Microsegundo</item>
+        <item>Milisegundo</item>
+        <item>Segundo</item>
+        <item>Minuto</item>
+        <item>Hora</item>
+        <item>Día</item>
+        <item>Semana</item>
+        <item>Mes</item>
+        <item>Año Natural</item>
+        <item>Década</item>
+        <item>Siglo</item>
+    </string-array>
+
+    <string-array name= "Almacenamiento">
+        <item>Seleccione una de las opciones</item>
+        <item>Bit</item>
+        <item>Kilobit</item>
+        <item>Kibibit</item>
+        <item>Megabit</item>
+        <item>Gigabit</item>
+        <item>Terabit</item>
+        <item>Tebibit</item>
+        <item>Petabit</item>
+        <item>Pebibit</item>
+        <item>Byte</item>
+        <item>Kilobyte</item>
+        <item>Kikibyte</item>
+        <item>Megabyte</item>
+        <item>Mebibyte</item>
+        <item>Gigabyte</item>
+        <item>Gibibyte</item>
+        <item>Terabyte</item>
+    </string-array>
+
+    <string-array name= "Volumen">
+        <item>Seleccione una de las opciones</item>
+        <item>Galón estadounidense</item>
+        <item>Cuarto estadounidense</item>
+        <item>Pinta estadounidense</item>
+        <item>Taza americana oficial</item>
+        <item>Onza líquida estadounidense</item>
+        <item>Cucharada estadounidense</item>
+        <item>Cucharadita estadounidense</item>
+        <item>Metro</item>
+        <item>Mililitro</item>
+        <item>Galón imperial</item>
+        <item>Cuarto imperial</item>
+        <item>Pinta imperial</item>
+        <item>Taza imperial</item>
+        <item>Onza líquida imperial</item>
+        <item>Cucharada imperial</item>
+        <item>Cucharadita imperial</item>
+        <item>Pie cúbico</item>
+        <item>Pulgada cúbica</item>
+    </string-array>
 </resources>
