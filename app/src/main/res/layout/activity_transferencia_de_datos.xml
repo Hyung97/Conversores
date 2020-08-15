@@ -11,7 +11,7 @@
         android:id="@+id/imageView4"
         android:layout_width="match_parent"
         android:layout_height="150dp"
-        app:srcCompat="@drawable/imagen9"
+        app:srcCompat="@drawable/imagen11"
         tools:layout_editor_absoluteX="5dp"
         tools:layout_editor_absoluteY="3dp" />
     <Button
@@ -42,7 +42,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="75dp"
         android:layout_marginTop="260dp"
-        android:entries="@array/Masa"
+        android:entries="@array/Transferenciadedatos"
         android:textColor="@android:color/white"
         android:textSize="40sp"
         android:textStyle="normal" />
@@ -53,7 +53,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="75dp"
         android:layout_marginTop="335dp"
-        android:entries="@array/Masa"
+        android:entries="@array/Transferenciadedatos"
         android:textColor="@android:color/white"
         android:textSize="30sp"
         android:textStyle="normal" />/>

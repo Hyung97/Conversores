@@ -43,4 +43,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intento1 = new Intent(this, Masa.class);
         startActivity(intento1);
     }
+
+    public void transparenciadate(View view) {
+        Intent intento6 = new Intent(this, Monedas.class);
+        startActivity(intento6);
+    }
 }
